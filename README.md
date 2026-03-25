@@ -6,8 +6,6 @@ This Rust Hangman game includes all the basic coding principles for rust while a
 
 I created this game for the user to have a fun, interactive word guessing game that can be deployed anywhere with rust.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
