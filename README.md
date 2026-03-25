@@ -2,9 +2,9 @@
 
 I am a Software Developer pursuing a Bachelor's from BYUI. I love to code and create programs that do all sorts of tasks for you.
 
-{Provide a description of the software that you wrote to demonstrate the Rust language.}
+This Rust Hangman game includes all the basic coding principles for rust while allowing the user to have a fun, interactive word guessing game. This includes mutable variables, functions, loops, and many more expressions to run the game.
 
-{Describe your purpose for writing this software.}
+I created this game for the user to have a fun, interactive word guessing game that can be deployed anywhere with rust.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -14,17 +14,16 @@ I am a Software Developer pursuing a Bachelor's from BYUI. I love to code and cr
 
 This program was produced using vscode and the Rust analyzer extension as well as GitHub for hosting.
 
-{Describe the programming language that you used and any libraries.}
+Rust is an object oriented programming language capable of running web applications and programs in the console too. It excels with management of resources and faster runtimes. I also used the Vector list because I did not know if the list bank for words may need to grow or change over time.
 
 # Useful Websites
 
 - W3 Schools: https://www.w3schools.com/rust/index.php
-- [Web Site Name](http://url.link.goes.here)
+- Youtube (Rust Syntax): https://www.youtube.com/watch?v=AuzoABH7fRA
+- Youtube (Rust Variables Guide): https://www.youtube.com/watch?v=AiXsIZkcB1c&t=96s
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Better UI
+- Add different modes like a wordle mode
+- Find a way to expand the word bank beyond entering my own words
