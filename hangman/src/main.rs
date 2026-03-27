@@ -82,6 +82,10 @@ fn main() {
     }
 }
 
+
+// extra function
+
+
 // draw hangman based on number of guesses
 fn get_stick_figure(hungman: i32) -> &'static str {
     match hungman {
